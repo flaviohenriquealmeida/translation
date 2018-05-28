@@ -1,4 +1,6 @@
-# TRANSLATED SUMMARY FROM THE BOOK MEAN
+# The following file has the summary from mais two published books:
+
+## TRANSLATED SUMMARY FROM THE BOOK MEAN
 
 - 1 Introduction
     * 1.1 MEAN Stack
@@ -166,7 +168,7 @@
     * 14.5 Integrating Travis with OpenShift
     * 14.6 Final considerations    
 
-# TRANSLATED SUMMARY FROM THE BOOK CANGACEIRO JAVASCRIPT    
+## TRANSLATED SUMMARY FROM THE BOOK CANGACEIRO JAVASCRIPT    
 
 - 1 Prologue: Once upon a time in the hinterland
     * 1.1 The problem with our code
