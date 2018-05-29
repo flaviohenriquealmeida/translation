@@ -1,4 +1,4 @@
-# The following file has the summary from may two published books at www.casadocodigo.com.br
+# The following file has the summary from my two published books at www.casadocodigo.com.br
 
 ## TRANSLATED SUMMARY FROM THE BOOK MEAN
 
